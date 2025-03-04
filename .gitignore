@@ -1,3 +1,7 @@
 .env
+<<<<<<< HEAD
 llalal
+=======
+*.coverage
+>>>>>>> 0c9352bd09686f1ec0a4409f5687965c63215df1
 .venv
